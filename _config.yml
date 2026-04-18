@@ -1,0 +1,10 @@
+title: BD Sports Betting
+description: Bangladesh Sports Betting Guide - Cricket, Football, Tennis and more.
+baseurl: "/bdsportsbetting"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
